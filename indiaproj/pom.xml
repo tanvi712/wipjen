@@ -5,7 +5,7 @@
   <version>1.0</version>
   
   <build>
-    <finalname>myjavaproj</finalname>
+    <finalName>myjavaproj</finalName>
   	<plugins>
   		<plugin>
   			<groupId>org.apache.maven.plugins</groupId>
